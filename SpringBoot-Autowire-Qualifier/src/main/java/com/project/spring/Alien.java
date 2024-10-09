@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 
 @Component
 public class Alien {
-    //
+    //Test
     private int id;
     private String name;
     private String tech;
