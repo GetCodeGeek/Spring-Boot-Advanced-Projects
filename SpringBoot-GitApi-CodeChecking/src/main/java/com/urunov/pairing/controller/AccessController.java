@@ -13,7 +13,7 @@ public class AccessController {
    @Autowired
    private GitlabAPIService gitlabAPI;
 
-
+//test
     @GetMapping("")
     public void response() throws Exception{
         GitlabAPIService.gitResponse();
